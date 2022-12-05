@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\7.112\7.112\bin\Debug\net6.0\7.112.exe
+C:\Users\artem\source\repos\7.112\7.112\bin\Debug\net6.0\7.112.deps.json
+C:\Users\artem\source\repos\7.112\7.112\bin\Debug\net6.0\7.112.runtimeconfig.json
+C:\Users\artem\source\repos\7.112\7.112\bin\Debug\net6.0\7.112.dll
+C:\Users\artem\source\repos\7.112\7.112\bin\Debug\net6.0\7.112.pdb
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.AssemblyInfo.cs
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.dll
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\refint\7.112.dll
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.pdb
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\7.112.genruntimeconfig.cache
+C:\Users\artem\source\repos\7.112\7.112\obj\Debug\net6.0\ref\7.112.dll
